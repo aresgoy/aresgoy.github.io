@@ -1,10 +1,14 @@
+body {
+  background-color: #ffdd90;
+  background-image: url("mi-imagen.jpg");
+}
 h1 {
   color: blue;
   text-align: right;
 }
 
 p {
-  font-family: verdana;
+  font-family: sans;
   font-size: 20px;
 }
 
